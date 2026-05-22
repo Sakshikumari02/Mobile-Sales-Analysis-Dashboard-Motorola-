@@ -41,3 +41,13 @@ Built an interactive Power BI dashboard to analyze mobile sales, transactions, a
 ![Dashboard 3](screenshot3.png)
 
 ![Dashboard 4](screenshot4.png)
+
+## Project Insights
+- Identified the overall sales performance and total revenue generated from mobile sales
+- Analyzed top-performing mobile brands and best-selling models
+- Observed customer buying patterns across different cities/regions
+- Compared sales performance using different payment methods
+- Tracked monthly sales trends to identify growth and decline patterns
+- Evaluated average selling price and total transaction performance
+- Analyzed customer ratings to understand product/customer satisfaction
+- Compared year-over-year sales performance for business growth analysis
