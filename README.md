@@ -3,3 +3,5 @@ Built an interactive Power BI dashboard to analyze mobile sales, transactions, a
 
 ## Dataset used
 <a href="https://github.com/Sakshikumari02/Mobile-Sales-Analysis-Dashboard-Motorola-/blob/main/Day%20-%2030%20-%20Mobile%20Sales%20Data.xlsx">Mobile Sales Data</a>
+
+## KPIs
