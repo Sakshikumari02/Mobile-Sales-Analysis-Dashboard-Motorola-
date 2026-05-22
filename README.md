@@ -34,3 +34,10 @@ Built an interactive Power BI dashboard to analyze mobile sales, transactions, a
 - Created a final interactive dashboard for sales performance tracking and decision-making
 
 ## Dashboard Screenshot
+![Dashboard 1](screenshot1.png)
+
+![Dashboard 2](screenshot2.png)
+
+![Dashboard 3](screenshot3.png)
+
+![Dashboard 4](screenshot4.png)
