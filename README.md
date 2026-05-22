@@ -20,3 +20,15 @@ Built an interactive Power BI dashboard to analyze mobile sales, transactions, a
 
 ## Dashboard Interaction   
 <a href="https://github.com/Sakshikumari02/Mobile-Sales-Analysis-Dashboard-Motorola-/blob/main/PBI4.pbix"> View Dashboard</a>
+
+## Process
+- Collected and understood mobile sales dataset
+- Cleaned and transformed raw data using Power Query
+- Checked missing values and corrected data types
+- Created relationships between tables (if needed) in Power BI data model
+- Built DAX measures for KPI calculations such as Total Sales, Quantity Sold, Average Price, and Transactions
+- Developed KPI Cards to highlight key business metrics
+- Designed visualizations for brand-wise sales, city-wise sales, payment method analysis, and monthly trends
+- Added slicers and filters for interactive analysis
+- Used charts, maps, and comparison visuals for better business insights
+- Created a final interactive dashboard for sales performance tracking and decision-making
