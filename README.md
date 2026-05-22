@@ -18,4 +18,5 @@ Built an interactive Power BI dashboard to analyze mobile sales, transactions, a
 - Monthly Sales Trend – Month-wise sales performance tracking
 - Year-over-Year Comparison – Previous year vs current year sales comparison
 
-## Dashboard Interaction
+## Dashboard Interaction   
+<a href="https://github.com/Sakshikumari02/Mobile-Sales-Analysis-Dashboard-Motorola-/blob/main/PBI4.pbix"> View Dashboard</a>
