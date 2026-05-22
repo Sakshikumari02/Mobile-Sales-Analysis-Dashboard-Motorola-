@@ -17,3 +17,5 @@ Built an interactive Power BI dashboard to analyze mobile sales, transactions, a
 - Sales by City/Region – Location-wise sales distribution
 - Monthly Sales Trend – Month-wise sales performance tracking
 - Year-over-Year Comparison – Previous year vs current year sales comparison
+
+## Dashboard Interaction
