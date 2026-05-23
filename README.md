@@ -1,8 +1,30 @@
 # Mobile-Sales-Analysis-Dashboard-Motorola-
 Built an interactive Power BI dashboard to analyze mobile sales, transactions, and customer behavior Created KPIs such as Total Sales, Quantity, and Transactions using DAX. Implemented slicers and multiple visuals (map, bar, pie, line charts) to analyze sales by brand, city, payment method and time.
 
+## Tech stack
+- Power BI Desktop - Dashboard creation and visualization
+- Excel - Data source
+- Power Query - Data cleaning and transformation
+- Dax - KPI calculations and measures
+- Data Modeling - Relationship between tables
+  
+## Dataset source
+- kaggle
 ## Dataset used
 <a href="https://github.com/Sakshikumari02/Mobile-Sales-Analysis-Dashboard-Motorola-/blob/main/Day%20-%2030%20-%20Mobile%20Sales%20Data.xlsx">Mobile Sales Data</a>
+## Dataset includes
+- Transaction ID
+- Mobile Brand
+- Mobile Model
+- Price
+- Quantity Sold
+- Total Sales
+- Customer Rating
+- Payment Method
+- City
+- Date
+- Month
+- Year
 
 ## KPIs
 - KPI Metrics
@@ -51,3 +73,6 @@ Built an interactive Power BI dashboard to analyze mobile sales, transactions, a
 - Evaluated average selling price and total transaction performance
 - Analyzed customer ratings to understand product/customer satisfaction
 - Compared year-over-year sales performance for business growth analysis
+
+## Conclusion
+The Mobile Sales Dashboard provides a clear analysis of sales performance by tracking revenue, quantity sold, customer ratings, payment methods, and regional sales trends. It helps identify top-performing brands and models, understand customer buying patterns, and supports data-driven business decision-making for improving sales strategy.
